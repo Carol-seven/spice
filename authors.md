@@ -14,16 +14,16 @@
 ## Citation
 
 Source:
-[`DESCRIPTION`](https://github.com/Carol-seven/fcstat/blob/master/DESCRIPTION)
+[`DESCRIPTION`](https://github.com/Carol-seven/spice/blob/master/DESCRIPTION)
 
 Xiao S, Yan J, Zhang P (2026). *spice: Sparse Precision (Inverse
 Covariance) Estimation*. R package version 0.1.0,
-<https://github.com/Carol-seven/fcstat>.
+<https://github.com/Carol-seven/spice>.
 
     @Manual{,
       title = {spice: Sparse Precision (Inverse Covariance) Estimation},
       author = {Shiying Xiao and Jun Yan and Panpan Zhang},
       year = {2026},
       note = {R package version 0.1.0},
-      url = {https://github.com/Carol-seven/fcstat},
+      url = {https://github.com/Carol-seven/spice},
     }
