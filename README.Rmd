@@ -40,7 +40,7 @@ researchers and practitioners in neuroimaging.
 
 | Method | Reference |
 |:--------|:----------|
-| Graphical lasso (`method = "lasso"`) | @friedman2008sparse |
+| Graphical lasso (`method = "glasso"`) | @friedman2008sparse |
 | Graphical ridge (`method = "ridge"`) | @vanwieringen2016ridge |
 | Graphical elastic net (`method = "elnet"`) | @zou2005regularization |
 | CLIME (`method = "clime"`) | @cai2011aconstrained |

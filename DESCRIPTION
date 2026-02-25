@@ -14,8 +14,8 @@ Description: Provide a unified interface to a collection of commonly used
     statistical methods for sparse precision (inverse covariance) matrix
     estimation.
 License: GPL (>= 3)
-URL: https://github.com/Carol-seven/fcstat
-BugReports: https://github.com/Carol-seven/fcstat/issues
+URL: https://github.com/Carol-seven/spice
+BugReports: https://github.com/Carol-seven/spice/issues
 Depends: 
     doParallel
 Imports: 
