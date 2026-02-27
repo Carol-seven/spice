@@ -291,8 +291,6 @@ spice <- function(
           stop("The input 'X' is the p-by-p sample covariance/correlation matrix.
                The selection requires the sample size 'n'.\n")
         }
-      } else {
-        n <- nrow(X)
       }
 
       ## select the optimal parameters among a set of possible values
