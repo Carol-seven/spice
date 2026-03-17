@@ -34,8 +34,8 @@ You can install the development version of **spice** from
 [GitHub](https://github.com/Carol-seven/spice) with:
 
 ``` r
-# install.packages("devtools")
-devtools::install_github("Carol-seven/spice")
+# install.packages("pak")
+pak::pkg_install("Carol-seven/spice")
 ```
 
 ## Example
