@@ -307,8 +307,8 @@ effect if provided.
 
 Akaike H (1973). “Information Theory and an Extension of the Maximum
 Likelihood Principle.” In Petrov BN, Csáki F (eds.), *Second
-International Symposium on Information Theory*, 267–281. Akad\\emiai
-Kiad\\o, Budapest, Hungary.  
+International Symposium on Information Theory*, 267–281. Akadémiai
+Kiadó, Budapest, Hungary.  
   
 Cai TT, Liu W, Luo X (2011). “A Constrained \\\ell\\1 Minimization
 Approach to Sparse Precision Matrix Estimation.” *Journal of the
