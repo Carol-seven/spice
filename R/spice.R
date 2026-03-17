@@ -221,6 +221,8 @@ spice <- function(
 
   if (npara > 1) {
 
+    X <- est.obj$X
+    S <- est.obj$S
     lambda <- est.obj$lambda
     gamma <- est.obj$gamma
     hatOmega <- est.obj$hatOmega
@@ -283,8 +285,6 @@ spice <- function(
                      CV.loss = CV.loss)
 
     } else {
-
-      S <- est.obj$S
 
       if (is.null(X)) {
         if (is.null(n)) {
